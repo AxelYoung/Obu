@@ -11,6 +11,7 @@ Obu is a Snake-inspired tile based puzzle game.
   </a>
 
 <img src="img/main.gif"/>
+<img src="img/lvledit.gif"/>
 
 <strong>Features</strong>
 <ul>
