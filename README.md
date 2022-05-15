@@ -10,8 +10,8 @@ Obu is a Snake-inspired tile based puzzle game.
     <img src="https://img.shields.io/static/v1?label=|&message=RELEASE&color=d4ac5e&style=plastic&logo=unity&logo-color=white"/>
   </a>
 
-<img src="img/main.gif"/>
-<img src="img/lvledit.gif"/>
+<img src="Git/main.gif"/>
+<img src="Git/lvledit.gif"/>
 
 <strong>Features</strong>
 <ul>
